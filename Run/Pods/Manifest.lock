@@ -1,0 +1,15 @@
+PODS:
+  - BmobSDK (1.6.5)
+  - Realm (0.96.1):
+    - Realm/Headers (= 0.96.1)
+  - Realm/Headers (0.96.1)
+
+DEPENDENCIES:
+  - BmobSDK
+  - Realm
+
+SPEC CHECKSUMS:
+  BmobSDK: 9928a9135a3a7823c6d8bd2bcd9baffeb8e6289a
+  Realm: d05e4621f67fb1c36acd4e573ac5b52a407fc2cc
+
+COCOAPODS: 0.39.0
